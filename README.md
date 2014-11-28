@@ -13,7 +13,7 @@ The Big Jolly Book of Humorous Observations
 
  * [PDF](https://hugovk.github.io/lolol/lolol.pdf) | 
 [HTML](https://hugovk.github.io/lolol/lolol.html) | 
-[MD](https://github.com/hugovk/lolol/blob/gh-pages/lolol.md)
+[MD](https://github.com/hugovk/lolol/blob/gh-pages/lolol.md) | (103,915 words)
 
 In the [Project Gutenberg CD corpus of 600 books](http://www.gutenberg.org/wiki/Gutenberg:The_CD_and_DVD_Project), find every English sentence containing the word **lo** – but also include the next sentence because the parser sometimes breaks things like "**lo!** and behold" into two.
 
@@ -25,6 +25,4 @@ Then replace each **lo** with **lol**.
 
 Uses [gutengrep.py](https://github.com/hugovk/gutengrep).
 
-Then print to PDF using Chrome. Big thanks to [@moonmilk for the CSS](https://github.com/moonmilk/nanogenmo2014):
-
-> Learning how to use print css to make the PDF look more like a cheap paperback and less like the printout from a web browser. css @page object and widows, orphans, and page-break-before properties allow some simple but effective page formatting. I also added a slightly tacky free google font to further distance the resulting look from default browser printouts.
+Then print to PDF using Chrome. Big thanks to [@moonmilk for the CSS](https://github.com/moonmilk/nanogenmo2014).
