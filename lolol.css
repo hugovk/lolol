@@ -14,7 +14,6 @@ p {
 }
 
 h1 {
-    color: red;
     text-align: center;
     padding-top: 0.5in;
     padding-bottom: 0.5in;
@@ -52,7 +51,10 @@ h3 {
 
 .lol {
     color: red;
+}
+
+p .lol {
     font-size: x-large;
     font-weight: bold;
-    }
+}
 

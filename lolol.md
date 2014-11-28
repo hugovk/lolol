@@ -2,7 +2,7 @@ Title:          lolol
 CSS:            lolol.css
 HTML Header:    <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,700,400italic'>
 
-lolol
+lo<span class="lol">lol</span>
 =====
 *<center>or</center>*
 ol the <span class="lol">lol</span>s
