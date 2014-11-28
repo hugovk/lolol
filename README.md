@@ -3,7 +3,7 @@ lolol
 
 *or*
 
-lolol
+ol the lols
 -----
 
 *or*
@@ -11,7 +11,11 @@ lolol
 The Big Jolly Book of Humorous Observations
 -------------------------------------------
 
-In the [Project Gutenberg CD corpus of 600 books](http://www.gutenberg.org/wiki/Gutenberg:The_CD_and_DVD_Project), find every English sentence containing the word **lo** -- but also include the next sentence because the parser sometimes breaks things like "lo! and behold" into two.
+ * [PDF](https://hugovk.github.io/lolol/lolol.pdf) | 
+[HTML](https://hugovk.github.io/lolol/lolol.html) | 
+[MD](https://github.com/hugovk/lolol/blob/gh-pages/lolol.md)
+
+In the [Project Gutenberg CD corpus of 600 books](http://www.gutenberg.org/wiki/Gutenberg:The_CD_and_DVD_Project), find every English sentence containing the word **lo** – but also include the next sentence because the parser sometimes breaks things like "**lo!** and behold" into two.
 
 Then replace each **lo** with **lol**.
 
