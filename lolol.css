@@ -1,0 +1,58 @@
+
+@page {
+    size: 5in 7in;
+    margin: 2cm;
+}
+
+body {
+    font-family: 'Gentium Book Basic', serif;
+}
+
+p {
+    orphans:4;
+    widows:3;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    padding-top: 0.5in;
+    padding-bottom: 0.5in;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 0.2in;
+    padding-bottom: 0.2in;
+}
+
+h3 {
+    page-break-before: right;
+    padding-top: 2in;
+}
+
+.author {
+    page-break-before: right;
+    padding-top: 2in;
+
+    font-size: 130%;
+    text-align: center;
+}
+
+.auth-desc {
+    font-style: italic;
+    text-align: center;
+}
+
+.source {
+    font-size: 90%;
+    text-align: center;
+    padding-top: 0.5in
+}
+
+.lol {
+    color: red;
+    font-size: x-large;
+    font-weight: bold;
+    }
+
